@@ -8,7 +8,7 @@ public class SayHello {
 	System.out.println("Printint Even Numbers");
        EvenNumbers.printEvenNumber(11);
 System.out.println("Printint Odd Numbers");
-       OddNumbers.printOddNumber(12);
+       OddNumbers.printOddNumber(120);
 
     }
 
